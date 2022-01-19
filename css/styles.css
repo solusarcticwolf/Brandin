@@ -11414,7 +11414,7 @@ header.masthead {
   background-image: url("../assets/img/cannabis-banner-3.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
-  background-position: center center;
+  background-position: right;
   background-size: cover;
 }
 header.masthead .masthead-subheading {
