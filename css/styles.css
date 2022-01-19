@@ -236,8 +236,8 @@ sup {
 }
 
 a {
-  color: #ffc800;
-  text-decoration: underline;
+  color: #6abf44;
+  text-decoration: none;
 }
 a:hover {
   color: #cca000;
@@ -3030,9 +3030,9 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #ffc800;
-  border-color: #ffc800;
+	color: #fff;
+	background-color: #6abf44;
+	border-color: #fff;
 }
 .btn-primary:hover {
   color: #fff;
